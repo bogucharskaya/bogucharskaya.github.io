@@ -1,0 +1,63 @@
+p {text-align: center;
+
+	color:violet;
+	
+}
+html{
+
+	padding: 40px 20px 20px 40px;
+	
+	border-width: 10px;
+	text-align: left;
+	font-size: 20px;
+	 
+  font-style: normal;
+  font-weight: 1500;
+  background-image: url('../images/gg.png');
+
+}
+h1{ font-size: 40px; 
+text-align: center;text-shadow: 3px 3px 1px gray;
+}
+
+h2 {  text-align: center;
+padding: 0 0 0 0;
+color:gray;
+font-size: 20px;
+font-style: italic;
+}
+h3{
+	padding: 10px 10px 10px 10px;
+	border: 3px solid teal;
+	background-color:PowderBlue ;
+	
+}
+li,ul { padding: 0  0  0 10px;
+color:firebrick;
+}
+
+a:hover { color:pink; 
+}
+a{
+	text-align: center;
+}
+body {
+
+
+	width :800px;
+	margin: 0 auto;
+	background-color: LightCyan  ;
+	
+	padding: 0 20px 20px 20px;
+	border: 10px double teal;
+	
+	
+	
+
+}
+img {
+	width: 800px;
+	border: 5px solid gray;
+	display: block;
+	text-align: center;
+}
